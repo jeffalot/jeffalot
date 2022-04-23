@@ -1,4 +1,8 @@
-### Hi there 👋
+### 📖 About Me
+
+- 🙋‍♂️ Jeff (He/Him)
+- 🖥 Backend Software Developer
+- ⌛️ 8 Years of Industry Experience across Contracting, Finance, and Software Development
 
 <!--
 **jeffalot/jeffalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
